@@ -1,0 +1,15 @@
+URGENT -
+? home page - instagram feed. confused about snapwidget
+
+QUESTIONS -
+- do we need alumni section? please check tedxccoew.netlify.app to see content of previous alumni section
+- 
+
+OPTIONAL -
+? README.md screenshot upload??? (githubusercontent) 
+✓ how to get full screenshot - screen capture chrome extension
+
+TESTING - 
+? Contact form - is the email being received?
+? 
+

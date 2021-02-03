@@ -1,4 +1,4 @@
-![TEDxCCOEW logo](res/images/logos/TEDxCCOEW-white-transparent-small.png)
+![TEDxCCOEW logo](res/images/logos/TEDxCCOEW-white.png)
 
 <!-- [![Website status](https://img.shields.io/website-up-down-green-red/https/tedxjmi.netlify.com.svg?label=Website%20status&style=for-the-badge)](https://tedxjmi.netlify.com) -->
 

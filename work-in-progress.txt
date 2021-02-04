@@ -1,8 +1,10 @@
 URGENT -
 ? home page - instagram feed. confused about snapwidget
+? contact page - how does the contact form work? After send msg, I can see "Thank you, your submission has been recorded". Where does it get saved? Can't see it in email inbox.
+? Twitter account? 
 
 QUESTIONS -
-- do we need alumni section?
+✓ do we need alumni section? (No)
 - 
 
 OPTIONAL -

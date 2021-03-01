@@ -2,7 +2,7 @@
 ✓ - done (at least basic)
 
 URGENT -
-? contact page - how does the contact form work? After send msg, I can see "Thank you, your submission has been recorded". Where does it get saved? Can't see it in email inbox.
+✓ contact page - how does the contact form work? After send msg, I can see "Thank you, your submission has been recorded". Where does it get saved? Can't see it in email inbox. - typeform.
 ✓ home page - instagram feed. confused about snapwidget - latest 6 insta posts can now be seen (no scrolling)
 ✓ coutdown??? countdown.js
 ? alignment in CEM on team page
@@ -15,6 +15,8 @@ OPTIONAL -
 ? README.md screenshot upload??? (githubusercontent) 
 ✓ how to get full screenshot - screen capture chrome extension
 ? insta on home page - how to enable scrolling
+? contact form (typeform) - center align button
+? contact us - extend map to fit width
 
 TESTING - 
 ? Contact form - is the email being received?

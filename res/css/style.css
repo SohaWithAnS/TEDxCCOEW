@@ -179,6 +179,9 @@
 
 .member-box {
   margin-bottom: 24px;
+}
+
+.member-box .img-wrapper {
   object-fit: cover;
 }
 

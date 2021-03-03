@@ -186,10 +186,9 @@
 }
 
 .organizer-coorganizer {
-  top:50%;
-  left: 50%;
-  transform: translate3d(-50%,-50%, 0);
-  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 

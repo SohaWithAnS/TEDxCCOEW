@@ -6,7 +6,7 @@ URGENT -
 ✓ home page - instagram feed. confused about snapwidget - latest 6 insta posts can now be seen (no scrolling)
 ✓ coutdown??? countdown.js
 ✓ alignment in CEM on team page
-? team photos
+✓ team photos
 
 QUESTIONS -
 ✓ do we need alumni section? (No)

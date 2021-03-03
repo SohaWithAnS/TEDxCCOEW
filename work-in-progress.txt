@@ -16,7 +16,7 @@ OPTIONAL -
 ? README.md screenshot upload??? (githubusercontent) 
 ✓ how to get full screenshot - screen capture chrome extension
 ? insta on home page - how to enable scrolling
-? contact form (typeform) - center align button
+✓ contact form (typeform) - center align button
 ? contact us - extend map to fit width
 
 TESTING - 

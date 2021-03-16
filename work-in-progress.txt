@@ -13,7 +13,7 @@ URGENT -
 
 QUESTIONS -
 ✓ do we need alumni section? (No)
-? Twitter account
+✓ Twitter account (No)
 
 OPTIONAL -
 ? README.md screenshot upload??? (githubusercontent) 

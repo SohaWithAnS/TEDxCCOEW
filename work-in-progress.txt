@@ -20,11 +20,10 @@ OPTIONAL -
 ✓ how to get full screenshot - screen capture chrome extension
 ? insta on home page - how to enable scrolling
 ✓ contact form (typeform) - center align button
-? contact us - extend map to fit width
 
 TESTING - 
-? Contact form - is the email being received?
-? event beep
+✓ Contact form - is the email being received?
+✓ event beep
 
         <!-- Social Box -->
         <div class="features-box col-sm-6 col-md-4 xs-margin-4 xs-no-margin-rl xs-no-margin-bottom">

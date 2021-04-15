@@ -4801,3 +4801,7 @@ section.pull-up {
     padding-top: 80px;
   }
 }
+
+.clear {
+  clear: both;
+}

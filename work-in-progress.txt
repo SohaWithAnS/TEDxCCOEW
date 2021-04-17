@@ -2,8 +2,8 @@
 ✓ - done (at least basic)
 
 URGENT -
-? spons - logos
-? 
+✓ time - 10:30
+✓ spons - logos
 ✓ home page - linkedin instead of twitter? - removed twitter
 ✓ contact page - how does the contact form work? After send msg, I can see "Thank you, your submission has been recorded". Where does it get saved? Can't see it in email inbox. - typeform.
 ✓ home page - instagram feed. confused about snapwidget - latest 6 insta posts can now be seen (no scrolling)

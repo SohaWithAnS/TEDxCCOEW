@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![screenshot-2018-1-16](https://user-images.githubusercontent.com/11466676/34989795-e0b351e2-fae9-11e7-95ea-d42b85d4b6cd.jpg)
+![2021-05-08-23-30-www tedxccoew live](https://user-images.githubusercontent.com/36818003/119255217-27ccdf00-bbd8-11eb-9788-e06eda742ff1.png)
 
 ## License
 

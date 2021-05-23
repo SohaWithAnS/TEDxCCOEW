@@ -16,7 +16,7 @@ QUESTIONS -
 ✓ Twitter account (No)
 
 OPTIONAL -
-✓ README.md screenshot upload??? (githubusercontent) - drag and drop screenshot in README.md in edit mode 
+✓ README.md screenshot upload??? (githubusercontent) - drag and drop screenshot in README.md in edit mode (on github),then copy paste that in local repo and push changes
 ✓ how to get full screenshot - screen capture chrome extension
 ✓ contact form (typeform) - center align button
 ? insta on home page - how to enable scrolling
